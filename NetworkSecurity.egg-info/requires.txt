@@ -1,7 +1,5 @@
 python-dotenv
 pandas
 numpy
-pymongo == 4.11.1
+pymongo==4.11.1
 certifi
-
--e .

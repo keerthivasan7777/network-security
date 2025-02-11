@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: NetworkSecurity
+Version: 0.0.1
+Author: Keerthivasan
+Author-email: keerthivasan33311@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pymongo==4.11.1
+Requires-Dist: certifi
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
